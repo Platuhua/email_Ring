@@ -5,8 +5,8 @@ from __future__ import unicode_literals
 from imapclient import IMAPClient
 import email
 HOST = 'c1.icoremail.net'
-USERNAME = 'qihongtao@rinpo.com'
-PASSWORD = 'qht131427'
+USERNAME = 'xxxxxx.com'
+PASSWORD = 'xxxx'
 ssl = False
 
 server = IMAPClient(HOST, use_uid=True, ssl=ssl)
